@@ -1,0 +1,3655 @@
+{
+ "version": 1,
+ "quotes": [
+  {
+   "en": "Time is the scarcest resource. Unless it is managed, nothing else can be managed.",
+   "ko": "시간은 가장 희소한 자원이다. 시간을 관리하지 않으면 아무것도 관리할 수 없다.",
+   "ja": "時間は最も希少な資源である。時間を管理しなければ、何も管理できない。",
+   "author": {
+    "en": "Peter Drucker",
+    "ko": "피터 드러커",
+    "ja": "ピーター・ドラッカー"
+   }
+  },
+  {
+   "en": "Prepare well and you will have no worries.",
+   "ko": "준비가 있으면 근심이 없다.",
+   "ja": "備えあれば憂いなし。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Tomorrow's wind will blow tomorrow.",
+   "ko": "내일은 내일의 바람이 분다.",
+   "ja": "明日は明日の風が吹く。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Wisely and slow; they stumble that run fast.",
+   "ko": "현명하게 천천히 하라. 빨리 뛰는 사람이 넘어진다.",
+   "ja": "賢く、ゆっくりと。速く走る者はつまずく。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Do not be too timid and squeamish about your actions. All life is an experiment.",
+   "ko": "행동을 지나치게 망설이지 마라. 삶은 모두 실험이다.",
+   "ja": "行動をためらいすぎるな。人生はすべて実験である。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "Sloth makes all things difficult, but industry all easy.",
+   "ko": "게으름은 모든 일을 어렵게 하고 부지런함은 모든 일을 쉽게 한다.",
+   "ja": "怠惰はすべてを難しくし、勤勉はすべてを容易にする。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "As long as you live, keep learning how to live.",
+   "ko": "살아 있는 동안 어떻게 살 것인지를 계속 배워라.",
+   "ja": "生きている限り、生き方を学び続けよ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+   "ko": "누구나 세상을 바꾸려 하지만 자신을 바꾸려는 사람은 없다.",
+   "ja": "誰もが世界を変えようと考えるが、自分を変えようとは考えない。",
+   "author": {
+    "en": "Leo Tolstoy",
+    "ko": "레프 톨스토이",
+    "ja": "レフ・トルストイ"
+   }
+  },
+  {
+   "en": "If you want to improve, be content to be thought foolish.",
+   "ko": "나아지고 싶다면 어리석어 보이는 것을 받아들여라.",
+   "ja": "向上したければ、愚かに見られることに甘んじよ。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Practice is the best of all instructors.",
+   "ko": "연습은 모든 스승 가운데 으뜸이다.",
+   "ja": "練習はすべての師の中で最良である。",
+   "author": {
+    "en": "Publilius Syrus",
+    "ko": "푸블릴리우스 시루스",
+    "ja": "プブリリウス・シルス"
+   }
+  },
+  {
+   "en": "Brevity is the soul of wit.",
+   "ko": "간결함은 지혜의 정수다.",
+   "ja": "簡潔こそ知恵の真髄である。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Slowly but surely the ox walks a thousand li.",
+   "ko": "소걸음으로 천 리 간다.",
+   "ja": "牛の歩みで千里を行く。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Strong reasons make strong actions.",
+   "ko": "굳건한 이유가 굳건한 행동을 낳는다.",
+   "ja": "強い理由は強い行動を生む。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+   "ko": "일이 어려워서 감행하지 못하는 것이 아니라, 감행하지 않기에 어려운 것이다.",
+   "ja": "物事が難しいから挑まないのではない。挑まないから難しいのだ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "The best revenge is not to be like your enemy.",
+   "ko": "최고의 복수는 상대와 같은 사람이 되지 않는 것이다.",
+   "ja": "最良の復讐は、相手のようにならないことである。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Look within. Within is the fountain of good.",
+   "ko": "네 안을 들여다보라. 선의 샘은 네 안에 있다.",
+   "ja": "内を見よ。善の泉は内にある。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Willing is not enough; we must do.",
+   "ko": "바라는 것으로는 부족하다. 행해야 한다.",
+   "ja": "望むだけでは足りない。行わなければならない。",
+   "author": {
+    "en": "Johann Wolfgang von Goethe",
+    "ko": "요한 볼프강 폰 괴테",
+    "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ"
+   }
+  },
+  {
+   "en": "Make hay while the sun shines.",
+   "ko": "해가 떠 있을 때 건초를 말려라.",
+   "ja": "日の照るうちに干し草を作れ。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "He who conquers others is strong; he who conquers himself is mighty.",
+   "ko": "남을 이기는 사람은 힘이 있고 자신을 이기는 사람은 강하다.",
+   "ja": "人に勝つ者は力あり、自ら勝つ者は強し。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Anger is a brief madness that does more harm than the injury that provoked it.",
+   "ko": "분노는 그 원인이 된 상처보다 더 큰 해를 입힌다.",
+   "ja": "怒りは、その原因となった傷よりも大きな害をもたらす。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Sharpen your resolve by sleeping on firewood and tasting gall.",
+   "ko": "장작 위에 눕고 쓸개를 맛보며 뜻을 다진다.",
+   "ja": "臥薪嘗胆。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Nothing great was ever achieved without enthusiasm.",
+   "ko": "열정 없이 이루어진 위대한 일은 없다.",
+   "ja": "情熱なくして偉大なことが成し遂げられたためしはない。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "Without accumulating small steps, you cannot reach a thousand miles.",
+   "ko": "반걸음이 쌓이지 않으면 천 리에 이를 수 없다.",
+   "ja": "歩を積まざれば以て千里に至ることなし。",
+   "author": {
+    "en": "Xunzi",
+    "ko": "순자",
+    "ja": "荀子"
+   }
+  },
+  {
+   "en": "Hard times are worth buying when you are young.",
+   "ko": "젊어서 고생은 사서도 한다.",
+   "ja": "若い時の苦労は買ってでもせよ。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Too many boatmen take the boat up the mountain.",
+   "ko": "사공이 많으면 배가 산으로 간다.",
+   "ja": "船頭が多いと船は山へ登る。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Even a waterdrop will pierce stone.",
+   "ko": "물방울이 돌을 뚫는다.",
+   "ja": "雨垂れ石を穿つ。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "A nine-story tower rises from a heap of earth.",
+   "ko": "구층 누각도 한 줌 흙을 쌓는 데서 시작된다.",
+   "ja": "九層の台も累土より起こる。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "For every minute you are angry you lose sixty seconds of happiness.",
+   "ko": "화를 내는 일 분마다 행복한 육십 초를 잃는다.",
+   "ja": "怒っている一分ごとに、幸福な六十秒を失う。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "He who does not know foreign languages knows nothing of his own.",
+   "ko": "외국어를 모르는 사람은 자기 나라 말도 모른다.",
+   "ja": "外国語を知らない者は、自国語についても何も知らない。",
+   "author": {
+    "en": "Johann Wolfgang von Goethe",
+    "ko": "요한 볼프강 폰 괴테",
+    "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ"
+   }
+  },
+  {
+   "en": "No man is free who is not master of himself.",
+   "ko": "자신을 다스리지 못하는 사람은 자유롭지 않다.",
+   "ja": "自分を制することができない者は自由ではない。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Never put off till tomorrow what may be done the day after tomorrow just as well.",
+   "ko": "모레 해도 될 일을 내일로 미루지 마라.",
+   "ja": "明後日でもよいことを、明日に延ばすな。",
+   "author": {
+    "en": "Mark Twain",
+    "ko": "마크 트웨인",
+    "ja": "マーク・トウェイン"
+   }
+  },
+  {
+   "en": "Time stays long enough for anyone who will use it.",
+   "ko": "시간은 쓰려는 사람에게 충분히 오래 머문다.",
+   "ja": "時は、使おうとする者には十分長くとどまる。",
+   "author": {
+    "en": "Leonardo da Vinci",
+    "ko": "레오나르도 다 빈치",
+    "ja": "レオナルド・ダ・ヴィンチ"
+   }
+  },
+  {
+   "en": "He who knows contentment is rich.",
+   "ko": "만족할 줄 아는 사람이 부유하다.",
+   "ja": "足るを知る者は富む。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Art is long, and time is fleeting.",
+   "ko": "예술은 길고 시간은 쏜살같다.",
+   "ja": "芸術は長く、時は束の間である。",
+   "author": {
+    "en": "Henry Wadsworth Longfellow",
+    "ko": "헨리 워즈워스 롱펠로",
+    "ja": "ヘンリー・ワズワース・ロングフェロー"
+   }
+  },
+  {
+   "en": "No one can lead a happy life without the love of wisdom.",
+   "ko": "지혜를 사랑하지 않고는 누구도 행복하게 살 수 없다.",
+   "ja": "知恵を愛さずに幸福に生きられる人はいない。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Begin at once to live, and count each separate day as a separate life.",
+   "ko": "지금 바로 살기 시작하고, 하루하루를 하나의 삶으로 여겨라.",
+   "ja": "今すぐ生き始めよ。一日一日を一つの人生と数えよ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Three visits to a thatched hut win a great mind.",
+   "ko": "세 번 찾아가 인재를 얻는다.",
+   "ja": "三顧の礼。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Not for school but for life we learn.",
+   "ko": "우리는 학교가 아니라 삶을 위해 배운다.",
+   "ja": "学校のためではなく人生のために学ぶ。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "No pain, no gain.",
+   "ko": "고통 없이는 얻는 것도 없다.",
+   "ja": "苦なくして得るものなし。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Early to bed and early to rise makes a man healthy, wealthy, and wise.",
+   "ko": "일찍 자고 일찍 일어나면 건강하고 부유하고 지혜로워진다.",
+   "ja": "早寝早起きは人を健康に、裕福に、賢明にする。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "I wasted time, and now doth time waste me.",
+   "ko": "나는 시간을 낭비했고, 이제 시간이 나를 낭비한다.",
+   "ja": "私は時を浪費した。今、時が私を浪費している。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Do nothing that is of no use.",
+   "ko": "쓸모없는 일은 하지 마라.",
+   "ja": "役に立たぬことをせざること。",
+   "author": {
+    "en": "Miyamoto Musashi",
+    "ko": "미야모토 무사시",
+    "ja": "宮本武蔵"
+   }
+  },
+  {
+   "en": "Do not worry that others do not know you; worry that you do not know others.",
+   "ko": "남이 나를 알아주지 않음을 걱정하지 말고, 내가 남을 알지 못함을 걱정하라.",
+   "ja": "人の己を知らざるを患えず、人を知らざるを患う。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Actions speak louder than words.",
+   "ko": "행동은 말보다 크게 말한다.",
+   "ja": "行動は言葉よりも雄弁である。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Once is a chance encounter that comes only once in a lifetime.",
+   "ko": "평생 단 한 번뿐인 만남이라 여겨라.",
+   "ja": "一期一会。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "It is not death that a man should fear, but never beginning to live.",
+   "ko": "사람이 두려워할 것은 죽음이 아니라 삶을 시작조차 하지 못하는 것이다.",
+   "ja": "恐れるべきは死ではなく、生き始めないことである。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "After hardship comes joy.",
+   "ko": "고생 끝에 낙이 온다.",
+   "ja": "苦労の果てに楽が来る。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Time and the hour run through the roughest day.",
+   "ko": "아무리 험한 날도 시간은 흘러간다.",
+   "ja": "どんなに荒れた日も、時は過ぎていく。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Rain makes the ground harder.",
+   "ko": "비 온 뒤에 땅이 굳어진다.",
+   "ja": "雨降って地固まる。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Great skill seems clumsy.",
+   "ko": "뛰어난 솜씨는 서툰 듯 보인다.",
+   "ja": "大巧は拙なるが若し。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "It is a bad plan that admits of no modification.",
+   "ko": "고칠 수 없는 계획은 나쁜 계획이다.",
+   "ja": "修正を許さない計画は悪い計画である。",
+   "author": {
+    "en": "Publilius Syrus",
+    "ko": "푸블릴리우스 시루스",
+    "ja": "プブリリウス・シルス"
+   }
+  },
+  {
+   "en": "What does not kill me makes me stronger.",
+   "ko": "나를 죽이지 못하는 것은 나를 더 강하게 만든다.",
+   "ja": "私を殺さないものは、私をより強くする。",
+   "author": {
+    "en": "Friedrich Nietzsche",
+    "ko": "프리드리히 니체",
+    "ja": "フリードリヒ・ニーチェ"
+   }
+  },
+  {
+   "en": "Seize the day, trusting as little as possible in tomorrow.",
+   "ko": "오늘을 붙잡아라. 내일은 되도록 믿지 마라.",
+   "ja": "今日という日を摘め。明日はできるだけ当てにするな。",
+   "author": {
+    "en": "Horace",
+    "ko": "호라티우스",
+    "ja": "ホラティウス"
+   }
+  },
+  {
+   "en": "Think lightly of yourself and deeply of the world.",
+   "ko": "자신은 가볍게 여기고 세상은 깊이 생각하라.",
+   "ja": "身を浅く思い、世を深く思う。",
+   "author": {
+    "en": "Miyamoto Musashi",
+    "ko": "미야모토 무사시",
+    "ja": "宮本武蔵"
+   }
+  },
+  {
+   "en": "Things do not change; we change.",
+   "ko": "세상이 변하는 것이 아니라 우리가 변한다.",
+   "ja": "物事が変わるのではない。私たちが変わるのだ。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "All cruelty springs from weakness.",
+   "ko": "모든 잔인함은 나약함에서 나온다.",
+   "ja": "すべての残酷さは弱さから生まれる。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "We suffer more often in imagination than in reality.",
+   "ko": "우리는 현실보다 상상 속에서 더 자주 괴로워한다.",
+   "ja": "私たちは現実よりも想像の中で、より多く苦しむ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "The gentleman seeks within himself; the small man seeks from others.",
+   "ko": "군자는 자기에게서 구하고 소인은 남에게서 구한다.",
+   "ja": "君子は諸を己に求め、小人は諸を人に求む。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "No one is useless in this world who lightens the burdens of another.",
+   "ko": "다른 사람의 짐을 덜어 주는 사람은 쓸모없는 사람이 아니다.",
+   "ja": "他人の重荷を軽くする者に、この世で役に立たない者はいない。",
+   "author": {
+    "en": "Charles Dickens",
+    "ko": "찰스 디킨스",
+    "ja": "チャールズ・ディケンズ"
+   }
+  },
+  {
+   "en": "Time is the devourer of all things.",
+   "ko": "시간은 모든 것을 삼킨다.",
+   "ja": "時はすべてを食い尽くす。",
+   "author": {
+    "en": "Ovid",
+    "ko": "오비디우스",
+    "ja": "オウィディウス"
+   }
+  },
+  {
+   "en": "What is learned young stays in the body.",
+   "ko": "어려서 배운 재주는 몸에 남는다.",
+   "ja": "昔取った杵柄。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Hold every hour in your grasp.",
+   "ko": "모든 시간을 네 손에 꽉 쥐어라.",
+   "ja": "すべての時間をしっかりとつかめ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Talent is formed in stillness, character in the stream of the world.",
+   "ko": "재능은 고요함 속에서, 인격은 세상의 흐름 속에서 만들어진다.",
+   "ja": "才能は静けさの中で、人格は世の流れの中で形づくられる。",
+   "author": {
+    "en": "Johann Wolfgang von Goethe",
+    "ko": "요한 볼프강 폰 괴테",
+    "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ"
+   }
+  },
+  {
+   "en": "Practice makes perfect.",
+   "ko": "연습이 완벽을 만든다.",
+   "ja": "習うより慣れよ。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Time heals all wounds.",
+   "ko": "시간은 모든 상처를 치유한다.",
+   "ja": "時はすべての傷を癒す。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Little by little, one goes far.",
+   "ko": "조금씩 가면 멀리 간다.",
+   "ja": "少しずつ進めば遠くへ行ける。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "It is a rough road that leads to the heights of greatness.",
+   "ko": "위대함의 정상으로 가는 길은 거칠다.",
+   "ja": "偉大さの高みへ続く道は険しい。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Loss is nothing else but change.",
+   "ko": "상실은 변화일 뿐이다.",
+   "ja": "喪失とは変化にほかならない。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Associate with those who will make a better person of you.",
+   "ko": "너를 더 나은 사람으로 만들어 줄 사람과 어울려라.",
+   "ja": "あなたをより良い人にしてくれる人と交わりなさい。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Procrastination is the thief of time.",
+   "ko": "미루는 버릇은 시간 도둑이다.",
+   "ja": "先延ばしは時間の泥棒である。",
+   "author": {
+    "en": "Charles Dickens",
+    "ko": "찰스 디킨스",
+    "ja": "チャールズ・ディケンズ"
+   }
+  },
+  {
+   "en": "Kindness is a language which the deaf can hear and the blind can see.",
+   "ko": "친절은 듣지 못하는 사람도 듣고 보지 못하는 사람도 보는 언어다.",
+   "ja": "親切は、耳の聞こえない人にも聞こえ、目の見えない人にも見える言葉である。",
+   "author": {
+    "en": "Mark Twain",
+    "ko": "마크 트웨인",
+    "ja": "マーク・トウェイン"
+   }
+  },
+  {
+   "en": "Many hands make light work.",
+   "ko": "손이 많으면 일이 가벼워진다.",
+   "ja": "人手が多ければ仕事は軽くなる。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "The usefulness of the useless is what few people know.",
+   "ko": "사람들은 쓸모 있는 것의 쓸모는 알아도 쓸모없는 것의 쓸모는 알지 못한다.",
+   "ja": "人は皆有用の用を知りて、無用の用を知るなし。",
+   "author": {
+    "en": "Zhuangzi",
+    "ko": "장자",
+    "ja": "荘子"
+   }
+  },
+  {
+   "en": "Knowing is not enough; we must apply.",
+   "ko": "아는 것으로는 부족하다. 실천해야 한다.",
+   "ja": "知るだけでは足りない。用いなければならない。",
+   "author": {
+    "en": "Johann Wolfgang von Goethe",
+    "ko": "요한 볼프강 폰 괴테",
+    "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ"
+   }
+  },
+  {
+   "en": "Three years on a stone will warm it.",
+   "ko": "돌 위에도 삼 년이면 따뜻해진다.",
+   "ja": "石の上にも三年。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "To see what is right and not do it is a lack of courage.",
+   "ko": "옳은 것을 보고도 행하지 않는 것은 용기가 없는 것이다.",
+   "ja": "義を見て為さざるは勇なきなり。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "While we teach, we learn.",
+   "ko": "가르치면서 우리는 배운다.",
+   "ja": "教えることで、私たちは学ぶ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "By failing to prepare, you are preparing to fail.",
+   "ko": "준비하지 않는 것은 실패를 준비하는 것이다.",
+   "ja": "準備を怠ることは、失敗の準備をすることである。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Heavy is the root of light; stillness is the master of haste.",
+   "ko": "무거움은 가벼움의 뿌리이고 고요함은 조급함의 주인이다.",
+   "ja": "重きは軽きの根たり、静かなるは躁がしきの君たり。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Those who stand on tiptoe do not stand firm.",
+   "ko": "발끝으로 서는 사람은 오래 서 있지 못한다.",
+   "ja": "企つ者は立たず。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Carve without stopping, and even metal and stone can be engraved.",
+   "ko": "쉬지 않고 새기면 쇠와 돌도 뚫을 수 있다.",
+   "ja": "鍥みて舎かざれば金石も鏤むべし。",
+   "author": {
+    "en": "Xunzi",
+    "ko": "순자",
+    "ja": "荀子"
+   }
+  },
+  {
+   "en": "The roots of education are bitter, but the fruit is sweet.",
+   "ko": "교육의 뿌리는 쓰지만 그 열매는 달다.",
+   "ja": "教育の根は苦いが、その実は甘い。",
+   "author": {
+    "en": "Aristotle",
+    "ko": "아리스토텔레스",
+    "ja": "アリストテレス"
+   }
+  },
+  {
+   "en": "Repetition is the mother of learning.",
+   "ko": "반복은 배움의 어머니다.",
+   "ja": "反復は学習の母である。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Our doubts are traitors.",
+   "ko": "의심은 우리를 배신하는 자다.",
+   "ja": "疑いは裏切り者である。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Dwell on the beauty of life.",
+   "ko": "삶의 아름다움을 깊이 생각하라.",
+   "ja": "人生の美しさに心をとどめよ。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Great eloquence seems like stammering.",
+   "ko": "큰 말재주는 어눌한 듯 보인다.",
+   "ja": "大弁は訥なるが若し。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "The years teach much which the days never know.",
+   "ko": "세월은 하루하루가 알지 못하는 많은 것을 가르친다.",
+   "ja": "歳月は、日々の知らぬ多くを教える。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "A person who has made a mistake and does not correct it is making another mistake.",
+   "ko": "잘못을 하고도 고치지 않는 것, 이것이 바로 잘못이다.",
+   "ja": "過ちて改めざる、是を過ちと謂う。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Know your enemy and know yourself, and you will not be in danger in a hundred battles.",
+   "ko": "적을 알고 나를 알면 백 번 싸워도 위태롭지 않다.",
+   "ja": "彼を知り己を知れば百戦殆うからず。",
+   "author": {
+    "en": "Sun Tzu",
+    "ko": "손자",
+    "ja": "孫子"
+   }
+  },
+  {
+   "en": "To dig a well nine fathoms deep and stop short of water is still to abandon the well.",
+   "ko": "우물을 아홉 길 파고도 샘에 이르지 못하면 우물을 버리는 것과 같다.",
+   "ja": "井を掘ること九仞にして泉に及ばざれば、猶お井を棄つるがごとし。",
+   "author": {
+    "en": "Mencius",
+    "ko": "맹자",
+    "ja": "孟子"
+   }
+  },
+  {
+   "en": "No one ever steps in the same river twice.",
+   "ko": "누구도 같은 강물에 두 번 들어갈 수 없다.",
+   "ja": "同じ川に二度入ることはできない。",
+   "author": {
+    "en": "Heraclitus",
+    "ko": "헤라클레이토스",
+    "ja": "ヘラクレイトス"
+   }
+  },
+  {
+   "en": "A habit formed at three lasts until eighty.",
+   "ko": "세 살 버릇 여든까지 간다.",
+   "ja": "三つ子の癖は八十まで続く。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "The unexamined life is not worth living.",
+   "ko": "성찰하지 않는 삶은 살 가치가 없다.",
+   "ja": "吟味されない人生は生きるに値しない。",
+   "author": {
+    "en": "Socrates",
+    "ko": "소크라테스",
+    "ja": "ソクラテス"
+   }
+  },
+  {
+   "en": "Sweet are the uses of adversity.",
+   "ko": "역경의 쓰임은 달다.",
+   "ja": "逆境の効用は甘美である。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "I know that I know nothing.",
+   "ko": "나는 내가 아무것도 모른다는 것을 안다.",
+   "ja": "私は自分が何も知らないことを知っている。",
+   "author": {
+    "en": "Socrates",
+    "ko": "소크라테스",
+    "ja": "ソクラテス"
+   }
+  },
+  {
+   "en": "One today is worth two tomorrows.",
+   "ko": "오늘 하루는 내일 이틀의 값어치가 있다.",
+   "ja": "今日の一日は明日の二日に値する。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Give every man thy ear, but few thy voice.",
+   "ko": "모두의 말을 듣되 말은 적게 하라.",
+   "ja": "すべての人に耳を貸し、言葉は少数に与えよ。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Heaven's net is vast; its mesh is wide, yet nothing slips through.",
+   "ko": "하늘의 그물은 넓고 성기지만 놓치는 것이 없다.",
+   "ja": "天網恢恢、疎にして漏らさず。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "When you have faults, do not fear to correct them.",
+   "ko": "잘못이 있으면 고치기를 꺼리지 마라.",
+   "ja": "過ちては則ち改むるに憚ること勿れ。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Every cloud has a silver lining.",
+   "ko": "모든 구름의 뒤편은 은빛으로 빛난다.",
+   "ja": "どんな雲にも銀の裏地がある。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Water is the softest thing, yet it overcomes the hardest.",
+   "ko": "세상에서 가장 부드러운 물이 가장 단단한 것을 이긴다.",
+   "ja": "天下の至柔は、天下の至堅を馳騁す。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Silence is more eloquent than words.",
+   "ko": "침묵은 말보다 더 많은 것을 말한다.",
+   "ja": "沈黙は言葉よりも雄弁である。",
+   "author": {
+    "en": "Thomas Carlyle",
+    "ko": "토머스 칼라일",
+    "ja": "トーマス・カーライル"
+   }
+  },
+  {
+   "en": "A friend in need is a friend indeed.",
+   "ko": "어려울 때 친구가 진짜 친구다.",
+   "ja": "まさかの時の友こそ真の友。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Time is money.",
+   "ko": "시간은 돈이다.",
+   "ja": "時は金なり。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Everything we hear is an opinion, not a fact.",
+   "ko": "우리가 듣는 모든 것은 사실이 아니라 의견이다.",
+   "ja": "私たちが聞くものはすべて、事実ではなく意見である。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Heaven did not create one person above another.",
+   "ko": "하늘은 사람 위에 사람을 만들지 않았다.",
+   "ja": "天は人の上に人を造らず。",
+   "author": {
+    "en": "Fukuzawa Yukichi",
+    "ko": "후쿠자와 유키치",
+    "ja": "福沢諭吉"
+   }
+  },
+  {
+   "en": "Only the educated are free.",
+   "ko": "배운 사람만이 자유롭다.",
+   "ja": "教養ある者だけが自由である。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Accept the things to which fate binds you.",
+   "ko": "운명이 너를 묶어 둔 것들을 받아들여라.",
+   "ja": "運命があなたに結びつけたものを受け入れよ。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Let food be thy medicine.",
+   "ko": "음식이 곧 약이 되게 하라.",
+   "ja": "食べ物を薬とせよ。",
+   "author": {
+    "en": "Hippocrates",
+    "ko": "히포크라테스",
+    "ja": "ヒポクラテス"
+   }
+  },
+  {
+   "en": "If you tell the truth, you do not have to remember anything.",
+   "ko": "진실을 말하면 아무것도 기억할 필요가 없다.",
+   "ja": "真実を話せば、何も覚えておく必要がない。",
+   "author": {
+    "en": "Mark Twain",
+    "ko": "마크 트웨인",
+    "ja": "マーク・トウェイン"
+   }
+  },
+  {
+   "en": "No one knows what he can do until he tries.",
+   "ko": "해 보기 전에는 누구도 자신이 무엇을 할 수 있는지 모른다.",
+   "ja": "やってみるまで、自分に何ができるかは誰にもわからない。",
+   "author": {
+    "en": "Publilius Syrus",
+    "ko": "푸블릴리우스 시루스",
+    "ja": "プブリリウス・シルス"
+   }
+  },
+  {
+   "en": "The mass of men lead lives of quiet desperation.",
+   "ko": "대부분의 사람은 조용한 절망 속에 살아간다.",
+   "ja": "多くの人は静かな絶望の生活を送っている。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "Dost thou love life? Then do not squander time, for that is the stuff life is made of.",
+   "ko": "삶을 사랑하는가? 그렇다면 시간을 낭비하지 마라. 삶은 시간으로 이루어져 있으니.",
+   "ja": "人生を愛するか。ならば時間を浪費するな。人生は時間でできているのだから。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Character is destiny.",
+   "ko": "성격이 곧 운명이다.",
+   "ja": "性格こそ運命である。",
+   "author": {
+    "en": "Heraclitus",
+    "ko": "헤라클레이토스",
+    "ja": "ヘラクレイトス"
+   }
+  },
+  {
+   "en": "Pray and work.",
+   "ko": "기도하고 일하라.",
+   "ja": "祈り、そして働け。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Dripping water hollows out stone.",
+   "ko": "떨어지는 물방울이 돌을 뚫는다.",
+   "ja": "滴り落ちる水が石を穿つ。",
+   "author": {
+    "en": "Ovid",
+    "ko": "오비디우스",
+    "ja": "オウィディウス"
+   }
+  },
+  {
+   "en": "Simplicity is the ultimate sophistication.",
+   "ko": "단순함이 궁극의 정교함이다.",
+   "ja": "簡潔さは究極の洗練である。",
+   "author": {
+    "en": "Leonardo da Vinci",
+    "ko": "레오나르도 다 빈치",
+    "ja": "レオナルド・ダ・ヴィンチ"
+   }
+  },
+  {
+   "en": "First say to yourself what you would be; and then do what you have to do.",
+   "ko": "먼저 어떤 사람이 되고 싶은지 스스로에게 말하고, 그다음 해야 할 일을 하라.",
+   "ja": "まず自分がどうありたいかを自らに語り、それから為すべきことを為せ。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Never leave that till tomorrow which you can do today.",
+   "ko": "오늘 할 수 있는 일을 내일로 미루지 마라.",
+   "ja": "今日できることを明日に延ばすな。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Only when the year grows cold do we see that the pine and cypress are the last to fade.",
+   "ko": "날이 추워진 뒤에야 소나무와 잣나무가 늦게 시드는 것을 안다.",
+   "ja": "歳寒くして、然る後に松柏の彫むに後るるを知る。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+   "ko": "천재는 1퍼센트의 영감과 99퍼센트의 땀으로 이루어진다.",
+   "ja": "天才とは一パーセントのひらめきと九十九パーセントの汗である。",
+   "author": {
+    "en": "Thomas Edison",
+    "ko": "토머스 에디슨",
+    "ja": "トーマス・エジソン"
+   }
+  },
+  {
+   "en": "Do not be in a hurry, and do not look for small gains.",
+   "ko": "빨리 하려 하지 말고 작은 이익을 보지 마라.",
+   "ja": "速やかならんと欲すること無かれ、小利を見ること無かれ。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Hours pass and are counted against us.",
+   "ko": "시간은 지나가고 우리 몫으로 셈해진다.",
+   "ja": "時は過ぎ去り、私たちの勘定に記される。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "They can because they think they can.",
+   "ko": "할 수 있다고 믿기에 할 수 있다.",
+   "ja": "できると思うからこそ、できる。",
+   "author": {
+    "en": "Virgil",
+    "ko": "베르길리우스",
+    "ja": "ウェルギリウス"
+   }
+  },
+  {
+   "en": "Fix the stable before the cow is lost, not after.",
+   "ko": "소 잃고 외양간 고치지 마라.",
+   "ja": "牛を失ってから牛小屋を直すな。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Fall seven times, stand up eight.",
+   "ko": "일곱 번 넘어져도 여덟 번 일어난다.",
+   "ja": "七転び八起き。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Swift as the wind, quiet as the forest, fierce as fire, immovable as a mountain.",
+   "ko": "바람처럼 빠르고, 숲처럼 고요하며, 불처럼 맹렬하고, 산처럼 움직이지 않는다.",
+   "ja": "疾きこと風の如く、徐かなること林の如く、侵掠すること火の如く、動かざること山の如し。",
+   "author": {
+    "en": "Sun Tzu",
+    "ko": "손자",
+    "ja": "孫子"
+   }
+  },
+  {
+   "en": "The highest good is like water.",
+   "ko": "가장 좋은 것은 물과 같다.",
+   "ja": "上善は水の若し。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "A thousand days of practice forge, ten thousand days refine.",
+   "ko": "천 일의 연습을 단(鍛)이라 하고, 만 일의 연습을 련(鍊)이라 한다.",
+   "ja": "千日の稽古を鍛とし、万日の稽古を錬とす。",
+   "author": {
+    "en": "Miyamoto Musashi",
+    "ko": "미야모토 무사시",
+    "ja": "宮本武蔵"
+   }
+  },
+  {
+   "en": "At fifteen I set my heart on learning.",
+   "ko": "나는 열다섯에 배움에 뜻을 두었다.",
+   "ja": "吾れ十有五にして学に志す。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Adopt the pace of nature: her secret is patience.",
+   "ko": "자연의 걸음을 따르라. 그 비결은 인내다.",
+   "ja": "自然の歩みに倣え。その秘訣は忍耐である。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "Rome was not built in a day.",
+   "ko": "로마는 하루아침에 이루어지지 않았다.",
+   "ja": "ローマは一日にして成らず。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "First learn the meaning of what you say, and then speak.",
+   "ko": "먼저 네 말의 뜻을 배우고 그다음에 말하라.",
+   "ja": "まず自分の言葉の意味を学び、それから話せ。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Fine words and a flattering face are seldom found with virtue.",
+   "ko": "듣기 좋은 말과 꾸민 얼굴에는 어진 마음이 드물다.",
+   "ja": "巧言令色、鮮なし仁。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Be at war with your vices, at peace with your neighbors.",
+   "ko": "자신의 나쁜 버릇과는 싸우고 이웃과는 화목하라.",
+   "ja": "己の悪癖とは戦い、隣人とは和せよ。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Through hardship to the stars.",
+   "ko": "고난을 넘어 별로.",
+   "ja": "困難を越えて星へ。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "The secret of getting ahead is getting started.",
+   "ko": "앞서가는 비결은 시작하는 것이다.",
+   "ja": "先へ進む秘訣は、始めることである。",
+   "author": {
+    "en": "Mark Twain",
+    "ko": "마크 트웨인",
+    "ja": "マーク・トウェイン"
+   }
+  },
+  {
+   "en": "The wise are free from doubt, the virtuous from worry, the brave from fear.",
+   "ko": "지혜로운 사람은 미혹되지 않고, 어진 사람은 근심하지 않으며, 용감한 사람은 두려워하지 않는다.",
+   "ja": "知者は惑わず、仁者は憂えず、勇者は懼れず。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "He who has a why to live can bear almost any how.",
+   "ko": "살아야 할 이유를 아는 사람은 거의 어떤 상황도 견딜 수 있다.",
+   "ja": "生きる理由を持つ者は、ほとんどどんな状況にも耐えられる。",
+   "author": {
+    "en": "Friedrich Nietzsche",
+    "ko": "프리드리히 니체",
+    "ja": "フリードリヒ・ニーチェ"
+   }
+  },
+  {
+   "en": "Confine yourself to the present.",
+   "ko": "지금 이 순간에 집중하라.",
+   "ja": "今この時に専念せよ。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Even a worm wriggles if you step on it.",
+   "ko": "지렁이도 밟으면 꿈틀한다.",
+   "ja": "ミミズも踏めば身をよじる。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Any man can steer in a calm sea.",
+   "ko": "잔잔한 바다에서는 누구나 배를 몰 수 있다.",
+   "ja": "穏やかな海なら誰でも舵を取れる。",
+   "author": {
+    "en": "Publilius Syrus",
+    "ko": "푸블릴리우스 시루스",
+    "ja": "プブリリウス・シルス"
+   }
+  },
+  {
+   "en": "Good fortune and misfortune turn into each other, like the old man's horse.",
+   "ko": "인생의 좋고 나쁨은 새옹지마와 같다.",
+   "ja": "人間万事塞翁が馬。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Bitter medicine cures; honest words are hard on the ears.",
+   "ko": "좋은 약은 입에 쓰고 충언은 귀에 거슬린다.",
+   "ja": "良薬は口に苦く、忠言は耳に逆らう。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Those who laugh are visited by good fortune.",
+   "ko": "웃는 집에 복이 온다.",
+   "ja": "笑う門には福来る。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Nothing is ours except time.",
+   "ko": "시간 말고는 어느 것도 진정 우리 것이 아니다.",
+   "ja": "時間以外に、私たちのものは何もない。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Do every act of your life as though it were the last.",
+   "ko": "삶의 모든 행동을 마지막인 것처럼 하라.",
+   "ja": "人生のすべての行いを、最後のものであるかのように為せ。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Time flies like an arrow.",
+   "ko": "시간은 화살처럼 날아간다.",
+   "ja": "光陰矢の如し。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "The only person you are destined to become is the person you decide to be.",
+   "ko": "네가 되어야 할 사람은 네가 되기로 결심한 사람뿐이다.",
+   "ja": "あなたがなる運命の人は、なると決めた人だけである。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "The two most powerful warriors are patience and time.",
+   "ko": "가장 강한 두 전사는 인내와 시간이다.",
+   "ja": "最も強い二人の戦士は忍耐と時間である。",
+   "author": {
+    "en": "Leo Tolstoy",
+    "ko": "레프 톨스토이",
+    "ja": "レフ・トルストイ"
+   }
+  },
+  {
+   "en": "The wise find joy in water; the virtuous find joy in mountains.",
+   "ko": "지혜로운 사람은 물을 좋아하고 어진 사람은 산을 좋아한다.",
+   "ja": "知者は水を楽しみ、仁者は山を楽しむ。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "An investment in knowledge pays the best interest.",
+   "ko": "지식에 대한 투자가 가장 큰 이자를 낳는다.",
+   "ja": "知識への投資は最高の利子を生む。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Make the best use of what is in your power, and take the rest as it happens.",
+   "ko": "네 힘이 닿는 것에 최선을 다하고 나머지는 일어나는 대로 받아들여라.",
+   "ja": "自分の力の及ぶものに最善を尽くし、残りは起こるままに受け入れよ。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "A room without books is like a body without a soul.",
+   "ko": "책 없는 방은 영혼 없는 몸과 같다.",
+   "ja": "本のない部屋は、魂のない体のようなものだ。",
+   "author": {
+    "en": "Cicero",
+    "ko": "키케로",
+    "ja": "キケロ"
+   }
+  },
+  {
+   "en": "Time flies, never to be regained.",
+   "ko": "시간은 날아가며 다시 돌아오지 않는다.",
+   "ja": "時は飛び去り、二度と戻らない。",
+   "author": {
+    "en": "Virgil",
+    "ko": "베르길리우스",
+    "ja": "ウェルギリウス"
+   }
+  },
+  {
+   "en": "The one who is thirsty digs the well.",
+   "ko": "목마른 사람이 우물 판다.",
+   "ja": "喉が渇いた者が井戸を掘る。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "I think, therefore I am.",
+   "ko": "나는 생각한다, 고로 존재한다.",
+   "ja": "我思う、ゆえに我あり。",
+   "author": {
+    "en": "René Descartes",
+    "ko": "르네 데카르트",
+    "ja": "ルネ・デカルト"
+   }
+  },
+  {
+   "en": "Our life has a limit, but knowledge has none.",
+   "ko": "우리의 삶에는 끝이 있지만 앎에는 끝이 없다.",
+   "ja": "吾が生や涯あり、而して知や涯なし。",
+   "author": {
+    "en": "Zhuangzi",
+    "ko": "장자",
+    "ja": "荘子"
+   }
+  },
+  {
+   "en": "To win without fighting is the highest skill.",
+   "ko": "싸우지 않고 이기는 것이 최고의 방법이다.",
+   "ja": "戦わずして人の兵を屈するは善の善なるものなり。",
+   "author": {
+    "en": "Sun Tzu",
+    "ko": "손자",
+    "ja": "孫子"
+   }
+  },
+  {
+   "en": "The only way to have a friend is to be one.",
+   "ko": "친구를 얻는 유일한 방법은 친구가 되는 것이다.",
+   "ja": "友を得る唯一の方法は、友になることである。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "Well begun is half done.",
+   "ko": "시작이 좋으면 반은 이룬 것이다.",
+   "ja": "よく始められたことは半ば成し遂げられている。",
+   "author": {
+    "en": "Aristotle",
+    "ko": "아리스토텔레스",
+    "ja": "アリストテレス"
+   }
+  },
+  {
+   "en": "Love all, trust a few, do wrong to none.",
+   "ko": "모두를 사랑하되 소수만 믿고, 누구에게도 잘못하지 마라.",
+   "ja": "すべてを愛し、少数を信じ、誰にも悪を為すな。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Do not act as if you were going to live ten thousand years.",
+   "ko": "만 년을 살 것처럼 행동하지 마라.",
+   "ja": "一万年も生きるかのように振る舞うな。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "A sword never kills anybody; it is a tool in the killer's hand.",
+   "ko": "칼이 사람을 죽이는 것이 아니라 그것을 쥔 손이 죽인다.",
+   "ja": "剣が人を殺すのではない。それを握る手が殺すのだ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "The greatest obstacle to living is expectancy, which depends on tomorrow and wastes today.",
+   "ko": "삶의 가장 큰 장애는 내일에 기대느라 오늘을 잃는 기다림이다.",
+   "ja": "生きることの最大の妨げは期待である。明日に頼り、今日を失う。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Learning without thought is labor lost; thought without learning is perilous.",
+   "ko": "배우기만 하고 생각하지 않으면 얻는 것이 없고, 생각하기만 하고 배우지 않으면 위태롭다.",
+   "ja": "学んで思わざれば則ち罔し、思うて学ばざれば則ち殆し。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "He who knows others is wise; he who knows himself is enlightened.",
+   "ko": "남을 아는 사람은 지혜롭고, 자신을 아는 사람은 밝다.",
+   "ja": "人を知る者は智なり、自らを知る者は明なり。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Our life is frittered away by detail. Simplify, simplify.",
+   "ko": "삶은 사소한 일로 흩어진다. 단순하게, 단순하게 살라.",
+   "ja": "人生は些事で浪費される。簡素に、簡素に。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "As if you could kill time without injuring eternity.",
+   "ko": "영원을 해치지 않고 시간을 죽일 수 있기라도 한 것처럼.",
+   "ja": "永遠を傷つけずに時間を殺せるかのように。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "The perfect is the enemy of the good.",
+   "ko": "완벽함은 좋은 것의 적이다.",
+   "ja": "完璧は善の敵である。",
+   "author": {
+    "en": "Voltaire",
+    "ko": "볼테르",
+    "ja": "ヴォルテール"
+   }
+  },
+  {
+   "en": "Life is long if you know how to use it.",
+   "ko": "쓸 줄 알면 인생은 길다.",
+   "ja": "使い方を知れば、人生は長い。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Courage is resistance to fear, mastery of fear, not absence of fear.",
+   "ko": "용기는 두려움이 없는 것이 아니라 두려움을 이겨 내는 것이다.",
+   "ja": "勇気とは恐れがないことではなく、恐れに打ち勝つことである。",
+   "author": {
+    "en": "Mark Twain",
+    "ko": "마크 트웨인",
+    "ja": "マーク・トウェイン"
+   }
+  },
+  {
+   "en": "Three people together have the wisdom of Manjushri.",
+   "ko": "세 사람이 모이면 문수보살의 지혜가 나온다.",
+   "ja": "三人寄れば文殊の知恵。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Is it not a joy to learn and to practice what you have learned?",
+   "ko": "배우고 때때로 익히면 또한 기쁘지 아니한가.",
+   "ja": "学びて時に之を習う、また説ばしからずや。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "The best remedy for anger is delay.",
+   "ko": "분노의 가장 좋은 치료약은 미루는 것이다.",
+   "ja": "怒りへの最良の薬は、時間を置くことである。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Anger is a short madness.",
+   "ko": "분노는 짧은 광기다.",
+   "ja": "怒りは短い狂気である。",
+   "author": {
+    "en": "Horace",
+    "ko": "호라티우스",
+    "ja": "ホラティウス"
+   }
+  },
+  {
+   "en": "Days and months are travelers of eternity.",
+   "ko": "세월은 영원한 나그네다.",
+   "ja": "月日は百代の過客にして。",
+   "author": {
+    "en": "Matsuo Basho",
+    "ko": "마쓰오 바쇼",
+    "ja": "松尾芭蕉"
+   }
+  },
+  {
+   "en": "Blue comes from the indigo plant, yet it is bluer than the plant.",
+   "ko": "푸른색은 쪽에서 나왔으나 쪽보다 더 푸르다.",
+   "ja": "青は藍より出でて藍より青し。",
+   "author": {
+    "en": "Xunzi",
+    "ko": "순자",
+    "ja": "荀子"
+   }
+  },
+  {
+   "en": "I still have twelve ships left.",
+   "ko": "아직 신에게는 열두 척의 배가 있습니다.",
+   "ja": "臣にはなお十二隻の船があります。",
+   "author": {
+    "en": "Yi Sun-sin",
+    "ko": "이순신",
+    "ja": "李舜臣"
+   }
+  },
+  {
+   "en": "There is no substitute for hard work.",
+   "ko": "노력을 대신할 것은 없다.",
+   "ja": "努力に代わるものはない。",
+   "author": {
+    "en": "Thomas Edison",
+    "ko": "토머스 에디슨",
+    "ja": "トーマス・エジソン"
+   }
+  },
+  {
+   "en": "Review the old and learn the new.",
+   "ko": "옛것을 익혀 새것을 안다.",
+   "ja": "故きを温ねて新しきを知る。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Be careful with what is at the tip of your tongue, for walls have ears.",
+   "ko": "낮말은 새가 듣고 밤말은 쥐가 듣는다.",
+   "ja": "昼の話は鳥が聞き、夜の話はねずみが聞く。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "What stands in the way becomes the way.",
+   "ko": "길을 막는 것이 곧 길이 된다.",
+   "ja": "行く手を阻むものが、道となる。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Without a dream there can be no ideal, and without an ideal no plan.",
+   "ko": "꿈이 없는 사람에게는 이상이 없고, 이상이 없는 사람에게는 계획이 없다.",
+   "ja": "夢なき者に理想なし、理想なき者に計画なし。",
+   "author": {
+    "en": "Yoshida Shoin",
+    "ko": "요시다 쇼인",
+    "ja": "吉田松陰"
+   }
+  },
+  {
+   "en": "A well frog cannot talk of the sea.",
+   "ko": "우물 안 개구리에게는 바다를 말할 수 없다.",
+   "ja": "井の中の蛙に海を語るべからず。",
+   "author": {
+    "en": "Zhuangzi",
+    "ko": "장자",
+    "ja": "荘子"
+   }
+  },
+  {
+   "en": "All men by nature desire to know.",
+   "ko": "모든 사람은 본래 알기를 원한다.",
+   "ja": "すべての人は生まれつき知ることを欲する。",
+   "author": {
+    "en": "Aristotle",
+    "ko": "아리스토텔레스",
+    "ja": "アリストテレス"
+   }
+  },
+  {
+   "en": "Rather than love, than money, than fame, give me truth.",
+   "ko": "사랑보다 돈보다 명예보다 내게 진실을 달라.",
+   "ja": "愛よりも金よりも名声よりも、私に真実を与えよ。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "There are no gains without pains.",
+   "ko": "고생 없이 얻는 것은 없다.",
+   "ja": "苦労なくして得るものなし。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "If a day passes without reading, thorns grow in the mouth.",
+   "ko": "하루라도 글을 읽지 않으면 입안에 가시가 돋는다.",
+   "ja": "一日でも書を読まなければ、口の中に茨が生える。",
+   "author": {
+    "en": "Ahn Jung-geun",
+    "ko": "안중근",
+    "ja": "安重根"
+   }
+  },
+  {
+   "en": "There is no tree that will not fall after ten strokes.",
+   "ko": "열 번 찍어 안 넘어가는 나무 없다.",
+   "ja": "十回切りつけて倒れない木はない。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "We have two ears and one mouth so that we can listen twice as much as we speak.",
+   "ko": "귀가 둘이고 입이 하나인 것은 말하는 것의 두 배를 듣기 위해서다.",
+   "ja": "耳が二つで口が一つなのは、話す倍だけ聞くためである。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Those who follow heaven survive; those who defy heaven perish.",
+   "ko": "하늘을 따르는 자는 살아남고 하늘을 거스르는 자는 망한다.",
+   "ja": "天に順う者は存し、天に逆らう者は亡ぶ。",
+   "author": {
+    "en": "Mencius",
+    "ko": "맹자",
+    "ja": "孟子"
+   }
+  },
+  {
+   "en": "Even if the sky falls, there is a hole to escape through.",
+   "ko": "하늘이 무너져도 솟아날 구멍이 있다.",
+   "ja": "天が崩れても這い出す穴はある。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Those who seek death shall live; those who seek life shall die.",
+   "ko": "죽고자 하면 살고, 살고자 하면 죽는다.",
+   "ja": "死なんとすれば生き、生きんとすれば死す。",
+   "author": {
+    "en": "Yi Sun-sin",
+    "ko": "이순신",
+    "ja": "李舜臣"
+   }
+  },
+  {
+   "en": "Well-begun words bring well-returned words.",
+   "ko": "가는 말이 고와야 오는 말이 곱다.",
+   "ja": "行く言葉が美しければ、返る言葉も美しい。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "You cannot cross the sea merely by standing and staring at the water.",
+   "ko": "서서 물만 바라보아서는 바다를 건널 수 없다.",
+   "ja": "立って水を眺めているだけでは海を渡れない。",
+   "author": {
+    "en": "Rabindranath Tagore",
+    "ko": "라빈드라나트 타고르",
+    "ja": "ラビンドラナート・タゴール"
+   }
+  },
+  {
+   "en": "It is impossible for a man to learn what he thinks he already knows.",
+   "ko": "이미 안다고 생각하는 것은 배울 수 없다.",
+   "ja": "すでに知っていると思うことを学ぶことはできない。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Experience is the best teacher.",
+   "ko": "경험이 가장 좋은 스승이다.",
+   "ja": "経験は最良の師である。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Art is long, life is short.",
+   "ko": "예술은 길고 인생은 짧다.",
+   "ja": "芸術は長く、人生は短い。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Let every eye negotiate for itself.",
+   "ko": "저마다 자기 눈으로 판단하게 하라.",
+   "ja": "それぞれの目で見極めさせよ。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Without small streams, there can be no rivers or seas.",
+   "ko": "작은 물줄기가 모이지 않으면 강과 바다를 이룰 수 없다.",
+   "ja": "小流を積まざれば以て江海を成すことなし。",
+   "author": {
+    "en": "Xunzi",
+    "ko": "순자",
+    "ja": "荀子"
+   }
+  },
+  {
+   "en": "Time and tide wait for no man.",
+   "ko": "시간과 조수는 사람을 기다려 주지 않는다.",
+   "ja": "歳月人を待たず。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Nothing without great effort.",
+   "ko": "큰 노력 없이는 아무것도 없다.",
+   "ja": "大きな努力なくして何も得られない。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "If a man knows not to which port he sails, no wind is favorable.",
+   "ko": "어느 항구로 갈지 모르는 사람에게는 어떤 바람도 순풍이 아니다.",
+   "ja": "どの港へ向かうのか知らぬ者には、どんな風も順風ではない。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Respect the gods and Buddhas, but do not rely on them.",
+   "ko": "신과 부처를 공경하되 의지하지 마라.",
+   "ja": "神仏は尊し、神仏を頼まず。",
+   "author": {
+    "en": "Miyamoto Musashi",
+    "ko": "미야모토 무사시",
+    "ja": "宮本武蔵"
+   }
+  },
+  {
+   "en": "Things that matter most must never be at the mercy of things that matter least.",
+   "ko": "가장 중요한 일이 가장 사소한 일에 휘둘려서는 안 된다.",
+   "ja": "最も大切なことを、最も些細なことに左右させてはならない。",
+   "author": {
+    "en": "Johann Wolfgang von Goethe",
+    "ko": "요한 볼프강 폰 괴테",
+    "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ"
+   }
+  },
+  {
+   "en": "Better a witty fool than a foolish wit.",
+   "ko": "어리석은 재사보다 재치 있는 바보가 낫다.",
+   "ja": "愚かな才人より、機知ある道化のほうがよい。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Dust gathered makes a mountain.",
+   "ko": "티끌 모아 태산이다.",
+   "ja": "塵も積もれば山となる。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Man is but a reed, the weakest in nature, but he is a thinking reed.",
+   "ko": "인간은 자연에서 가장 약한 갈대지만 생각하는 갈대다.",
+   "ja": "人間は自然の中で最も弱い葦にすぎないが、考える葦である。",
+   "author": {
+    "en": "Blaise Pascal",
+    "ko": "블레즈 파스칼",
+    "ja": "ブレーズ・パスカル"
+   }
+  },
+  {
+   "en": "Do not treat even an inch of time lightly.",
+   "ko": "한 치의 시간도 가벼이 여기지 마라.",
+   "ja": "一寸の光陰軽んずべからず。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "No great thing is created suddenly.",
+   "ko": "위대한 것은 어느 것도 갑자기 만들어지지 않는다.",
+   "ja": "偉大なものは、どれも突然には生まれない。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "A hundred hearings are not worth one seeing.",
+   "ko": "백 번 듣는 것이 한 번 보는 것만 못하다.",
+   "ja": "百聞は一見に如かず。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Life is short, art is long.",
+   "ko": "인생은 짧고 예술은 길다.",
+   "ja": "人生は短く、術は長い。",
+   "author": {
+    "en": "Hippocrates",
+    "ko": "히포크라테스",
+    "ja": "ヒポクラテス"
+   }
+  },
+  {
+   "en": "The tree you can barely embrace grew from a tiny shoot.",
+   "ko": "아름드리나무도 털끝만 한 싹에서 자란다.",
+   "ja": "合抱の木も毫末より生ず。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Slow and steady wins the race.",
+   "ko": "느려도 꾸준하면 경주에서 이긴다.",
+   "ja": "ゆっくり着実な者が競走に勝つ。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Even a long road is walked by one step at a time.",
+   "ko": "긴 길도 한 걸음씩 걷는다.",
+   "ja": "長い道も一歩ずつ歩む。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Plough deep while sluggards sleep.",
+   "ko": "게으른 사람이 자는 동안 깊이 밭을 갈아라.",
+   "ja": "怠け者が眠る間に深く耕せ。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Lost time is never found again.",
+   "ko": "잃어버린 시간은 다시 찾을 수 없다.",
+   "ja": "失われた時間は二度と見つからない。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Knowledge is power.",
+   "ko": "아는 것이 힘이다.",
+   "ja": "知は力なり。",
+   "author": {
+    "en": "Francis Bacon",
+    "ko": "프랜시스 베이컨",
+    "ja": "フランシス・ベーコン"
+   }
+  },
+  {
+   "en": "A rolling stone gathers no moss.",
+   "ko": "구르는 돌에는 이끼가 끼지 않는다.",
+   "ja": "転がる石に苔は生えない。",
+   "author": {
+    "en": "Publilius Syrus",
+    "ko": "푸블릴리우스 시루스",
+    "ja": "プブリリウス・シルス"
+   }
+  },
+  {
+   "en": "Even small peppers are hot.",
+   "ko": "작은 고추가 맵다.",
+   "ja": "小さな唐辛子は辛い。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "We must cultivate our garden.",
+   "ko": "우리는 우리의 밭을 가꾸어야 한다.",
+   "ja": "私たちは自分の庭を耕さねばならない。",
+   "author": {
+    "en": "Voltaire",
+    "ko": "볼테르",
+    "ja": "ヴォルテール"
+   }
+  },
+  {
+   "en": "It is not that we have a short time to live, but that we waste a lot of it.",
+   "ko": "우리에게 주어진 삶이 짧은 것이 아니라, 우리가 그 많은 시간을 허비하는 것이다.",
+   "ja": "人生が短いのではない。私たちが多くの時間を浪費しているのだ。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Well done is better than well said.",
+   "ko": "말을 잘하는 것보다 일을 잘하는 것이 낫다.",
+   "ja": "うまく言うより、うまくやるほうがよい。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "He who is everywhere is nowhere.",
+   "ko": "어디에나 있는 사람은 어디에도 없는 사람이다.",
+   "ja": "どこにでもいる者は、どこにもいない。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Great works are performed not by strength but by perseverance.",
+   "ko": "위대한 일은 힘이 아니라 끈기로 이루어진다.",
+   "ja": "偉大な業は力ではなく、根気によって成し遂げられる。",
+   "author": {
+    "en": "Samuel Johnson",
+    "ko": "새뮤얼 존슨",
+    "ja": "サミュエル・ジョンソン"
+   }
+  },
+  {
+   "en": "To know what you know and what you do not know, that is true knowledge.",
+   "ko": "아는 것을 안다 하고 모르는 것을 모른다 하는 것이 참된 앎이다.",
+   "ja": "知るを知るとなし、知らざるを知らずとなす。これ知るなり。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Each day provides its own gifts.",
+   "ko": "날마다 그날의 선물이 있다.",
+   "ja": "日々はそれぞれの贈り物をもたらす。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Every day is a journey, and the journey itself is home.",
+   "ko": "날마다가 여행이고 여행이 곧 집이다.",
+   "ja": "日々旅にして旅を栖とす。",
+   "author": {
+    "en": "Matsuo Basho",
+    "ko": "마쓰오 바쇼",
+    "ja": "松尾芭蕉"
+   }
+  },
+  {
+   "en": "Man errs as long as he strives.",
+   "ko": "사람은 노력하는 한 방황한다.",
+   "ja": "人は努力する限り迷うものである。",
+   "author": {
+    "en": "Johann Wolfgang von Goethe",
+    "ko": "요한 볼프강 폰 괴테",
+    "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ"
+   }
+  },
+  {
+   "en": "A gentleman is slow in speech and quick in action.",
+   "ko": "군자는 말은 더디게 하고 행동은 민첩하게 하려 한다.",
+   "ja": "君子は言に訥にして行いに敏ならんと欲す。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Little strokes fell great oaks.",
+   "ko": "작은 도끼질이 큰 참나무를 쓰러뜨린다.",
+   "ja": "小さな斧の一打ちが大きな樫の木を倒す。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "No person is free who is a slave to the body.",
+   "ko": "몸의 노예인 사람은 자유롭지 않다.",
+   "ja": "肉体の奴隷である者は、自由ではない。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "One swallow does not make a summer.",
+   "ko": "제비 한 마리가 왔다고 여름이 되는 것은 아니다.",
+   "ja": "一羽の燕が夏をもたらすのではない。",
+   "author": {
+    "en": "Aristotle",
+    "ko": "아리스토텔레스",
+    "ja": "アリストテレス"
+   }
+  },
+  {
+   "en": "Gratitude is not only the greatest of virtues, but the parent of all others.",
+   "ko": "감사는 가장 큰 덕일 뿐 아니라 모든 덕의 어버이다.",
+   "ja": "感謝は最大の美徳であるだけでなく、すべての美徳の親である。",
+   "author": {
+    "en": "Cicero",
+    "ko": "키케로",
+    "ja": "キケロ"
+   }
+  },
+  {
+   "en": "Know when to stop and you will not be in danger.",
+   "ko": "그칠 줄 알면 위태롭지 않다.",
+   "ja": "止まるを知れば殆うからず。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "All that glisters is not gold.",
+   "ko": "반짝인다고 다 금은 아니다.",
+   "ja": "輝くものすべてが金とは限らない。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "The nail of the wise is hidden; the able hawk hides its claws.",
+   "ko": "재주 있는 매는 발톱을 숨긴다.",
+   "ja": "能ある鷹は爪を隠す。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Look before you leap.",
+   "ko": "뛰기 전에 살펴보라.",
+   "ja": "跳ぶ前に見よ。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Do not let the enemy know that I have died.",
+   "ko": "나의 죽음을 적에게 알리지 마라.",
+   "ja": "我が死を敵に知らせるな。",
+   "author": {
+    "en": "Yi Sun-sin",
+    "ko": "이순신",
+    "ja": "李舜臣"
+   }
+  },
+  {
+   "en": "A little learning is a dangerous thing.",
+   "ko": "얕은 지식은 위험하다.",
+   "ja": "生兵法は大怪我のもと。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "If it is not right, do not do it; if it is not true, do not say it.",
+   "ko": "옳지 않으면 하지 말고, 참이 아니면 말하지 마라.",
+   "ja": "正しくないなら行うな。真実でないなら言うな。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Do not seek the footsteps of the ancients; seek what they sought.",
+   "ko": "옛사람의 발자취를 좇지 말고 그들이 찾던 것을 찾아라.",
+   "ja": "古人の跡を求めず、古人の求めたるところを求めよ。",
+   "author": {
+    "en": "Matsuo Basho",
+    "ko": "마쓰오 바쇼",
+    "ja": "松尾芭蕉"
+   }
+  },
+  {
+   "en": "Honesty is the best policy.",
+   "ko": "정직이 최선의 방책이다.",
+   "ja": "正直は最善の策である。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Never let the future disturb you.",
+   "ko": "미래가 너를 흔들게 두지 마라.",
+   "ja": "未来に心を乱されるな。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "A journey is better with a companion; the world is better with kindness.",
+   "ko": "여행에는 길동무, 세상에는 인정이 있어야 한다.",
+   "ja": "旅は道連れ、世は情け。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "The beginning is the most important part of the work.",
+   "ko": "시작은 일에서 가장 중요한 부분이다.",
+   "ja": "始まりは仕事の最も重要な部分である。",
+   "author": {
+    "en": "Plato",
+    "ko": "플라톤",
+    "ja": "プラトン"
+   }
+  },
+  {
+   "en": "Remember that you must die.",
+   "ko": "죽음을 기억하라.",
+   "ja": "死を想え。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Without music, life would be a mistake.",
+   "ko": "음악이 없다면 삶은 잘못일 것이다.",
+   "ja": "音楽がなければ、人生は誤りだろう。",
+   "author": {
+    "en": "Friedrich Nietzsche",
+    "ko": "프리드리히 니체",
+    "ja": "フリードリヒ・ニーチェ"
+   }
+  },
+  {
+   "en": "Hitch your wagon to a star.",
+   "ko": "네 수레를 별에 매어라.",
+   "ja": "あなたの荷車を星につなげ。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "Time is but the stream I go a-fishing in.",
+   "ko": "시간은 내가 낚시하러 가는 시냇물일 뿐이다.",
+   "ja": "時は、私が釣りに行く小川にすぎない。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "The soul becomes dyed with the color of its thoughts.",
+   "ko": "영혼은 생각의 색으로 물든다.",
+   "ja": "魂は思考の色に染まる。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Learn from the wise; correct yourself by others' behavior.",
+   "ko": "남의 행동을 보고 자기 행동을 고쳐라.",
+   "ja": "人のふり見て我がふり直せ。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "I have not failed. I have just found ten thousand ways that will not work.",
+   "ko": "나는 실패한 것이 아니다. 안 되는 방법 만 가지를 찾았을 뿐이다.",
+   "ja": "私は失敗していない。うまくいかない方法を一万通り見つけただけだ。",
+   "author": {
+    "en": "Thomas Edison",
+    "ko": "토머스 에디슨",
+    "ja": "トーマス・エジソン"
+   }
+  },
+  {
+   "en": "Good medicine tastes bitter.",
+   "ko": "좋은 약은 입에 쓰다.",
+   "ja": "良薬は口に苦し。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "One who moves a mountain begins by carrying small stones.",
+   "ko": "어리석은 노인이 산을 옮긴다.",
+   "ja": "愚公、山を移す。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "What's done cannot be undone.",
+   "ko": "이미 한 일은 되돌릴 수 없다.",
+   "ja": "してしまったことは取り消せない。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Energy and persistence conquer all things.",
+   "ko": "힘과 끈기는 모든 것을 이겨 낸다.",
+   "ja": "活力と粘り強さはすべてに打ち勝つ。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "A journey of a thousand miles begins with a single step.",
+   "ko": "천 리 길도 한 걸음에서 시작된다.",
+   "ja": "千里の道も一歩から始まる。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Common sense is not so common.",
+   "ko": "상식은 그리 흔하지 않다.",
+   "ja": "常識はそれほど一般的ではない。",
+   "author": {
+    "en": "Voltaire",
+    "ko": "볼테르",
+    "ja": "ヴォルテール"
+   }
+  },
+  {
+   "en": "Even monkeys fall from trees.",
+   "ko": "원숭이도 나무에서 떨어진다.",
+   "ja": "猿も木から落ちる。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Learning never exhausts the mind.",
+   "ko": "배움은 결코 마음을 지치게 하지 않는다.",
+   "ja": "学びが心を疲れさせることは決してない。",
+   "author": {
+    "en": "Leonardo da Vinci",
+    "ko": "레오나르도 다 빈치",
+    "ja": "レオナルド・ダ・ヴィンチ"
+   }
+  },
+  {
+   "en": "The heights by great men reached were not attained by sudden flight.",
+   "ko": "위인들이 오른 높은 곳은 단번에 날아서 이른 곳이 아니다.",
+   "ja": "偉人たちが到達した高みは、一気に飛んで届いたものではない。",
+   "author": {
+    "en": "Henry Wadsworth Longfellow",
+    "ko": "헨리 워즈워스 롱펠로",
+    "ja": "ヘンリー・ワズワース・ロングフェロー"
+   }
+  },
+  {
+   "en": "The first and greatest victory is to conquer yourself.",
+   "ko": "첫째가는 가장 큰 승리는 자신을 이기는 것이다.",
+   "ja": "最初にして最大の勝利は、自分に打ち勝つことである。",
+   "author": {
+    "en": "Plato",
+    "ko": "플라톤",
+    "ja": "プラトン"
+   }
+  },
+  {
+   "en": "True happiness is to enjoy the present without anxious dependence on the future.",
+   "ko": "참된 행복은 미래에 매달려 불안해하지 않고 현재를 누리는 것이다.",
+   "ja": "真の幸福とは、未来に不安を抱かず今を楽しむことである。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Finish each day and be done with it.",
+   "ko": "하루를 마치면 그날은 끝난 것으로 하라.",
+   "ja": "一日を終えたら、それで終わりにせよ。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "The butterfly counts not months but moments, and has time enough.",
+   "ko": "나비는 달이 아니라 순간을 세며, 그래도 시간은 충분하다.",
+   "ja": "蝶は月ではなく瞬間を数え、それでも時間は十分にある。",
+   "author": {
+    "en": "Rabindranath Tagore",
+    "ko": "라빈드라나트 타고르",
+    "ja": "ラビンドラナート・タゴール"
+   }
+  },
+  {
+   "en": "Slowly, make haste.",
+   "ko": "천천히 서둘러라.",
+   "ja": "ゆっくり急げ。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "The friendship of the wise is as plain as water.",
+   "ko": "군자의 사귐은 물처럼 담백하다.",
+   "ja": "君子の交わりは淡きこと水の若し。",
+   "author": {
+    "en": "Zhuangzi",
+    "ko": "장자",
+    "ja": "荘子"
+   }
+  },
+  {
+   "en": "When you see a person of worth, think of becoming their equal.",
+   "ko": "어진 사람을 보면 그와 같아지기를 생각하라.",
+   "ja": "賢を見ては斉しからんことを思う。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "It is not the man who has too little, but the man who craves more, that is poor.",
+   "ko": "가난한 사람은 적게 가진 사람이 아니라 더 많이 갈망하는 사람이다.",
+   "ja": "貧しいのは持ち物が少ない者ではなく、より多くを渇望する者である。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "Everything flows.",
+   "ko": "모든 것은 흐른다.",
+   "ja": "万物は流転する。",
+   "author": {
+    "en": "Heraclitus",
+    "ko": "헤라클레이토스",
+    "ja": "ヘラクレイトス"
+   }
+  },
+  {
+   "en": "He that can have patience can have what he will.",
+   "ko": "참을 줄 아는 사람은 원하는 것을 얻을 수 있다.",
+   "ja": "忍耐できる者は望むものを得られる。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Very little is needed to make a happy life.",
+   "ko": "행복한 삶에 필요한 것은 아주 적다.",
+   "ja": "幸福な人生に必要なものは、ごくわずかである。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Divide each difficulty into as many parts as possible.",
+   "ko": "어려운 문제는 가능한 한 잘게 나누어라.",
+   "ja": "困難はできる限り細かく分けよ。",
+   "author": {
+    "en": "René Descartes",
+    "ko": "르네 데카르트",
+    "ja": "ルネ・デカルト"
+   }
+  },
+  {
+   "en": "Strike while the iron is hot.",
+   "ko": "쇠뿔도 단김에 빼라.",
+   "ja": "牛の角も熱いうちに抜け。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Silence is golden, speech is silver.",
+   "ko": "침묵은 금이고 웅변은 은이다.",
+   "ja": "沈黙は金、雄弁は銀。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "One word can repay a debt of a thousand nyang.",
+   "ko": "말 한마디로 천 냥 빚을 갚는다.",
+   "ja": "一言で千両の借金を返せる。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "All the world's a stage.",
+   "ko": "온 세상은 하나의 무대다.",
+   "ja": "この世はすべて舞台である。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Better to remain silent and be thought a fool than to speak and remove all doubt.",
+   "ko": "입을 열어 의심을 없애느니 침묵하여 바보로 여겨지는 편이 낫다.",
+   "ja": "話して疑いを晴らすより、黙って愚か者と思われるほうがよい。",
+   "author": {
+    "en": "Abraham Lincoln",
+    "ko": "에이브러햄 링컨",
+    "ja": "エイブラハム・リンカーン"
+   }
+  },
+  {
+   "en": "The early bird catches the worm.",
+   "ko": "일찍 일어나는 새가 벌레를 잡는다.",
+   "ja": "早起きの鳥は虫を捕まえる。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Water from above must be clear for water below to be clear.",
+   "ko": "윗물이 맑아야 아랫물이 맑다.",
+   "ja": "上の水が澄んでこそ下の水も澄む。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "The stake that sticks out gets hammered.",
+   "ko": "튀어나온 말뚝이 얻어맞는다.",
+   "ja": "出る杭は打たれる。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "While there is life, there is hope.",
+   "ko": "살아 있는 한 희망이 있다.",
+   "ja": "生きている限り希望がある。",
+   "author": {
+    "en": "Cicero",
+    "ko": "키케로",
+    "ja": "キケロ"
+   }
+  },
+  {
+   "en": "Those who know do not speak; those who speak do not know.",
+   "ko": "아는 사람은 말하지 않고 말하는 사람은 알지 못한다.",
+   "ja": "知る者は言わず、言う者は知らず。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Wealth consists not in having great possessions, but in having few wants.",
+   "ko": "부유함은 많이 가진 데 있지 않고 원하는 것이 적은 데 있다.",
+   "ja": "富とは多くを持つことではなく、望みが少ないことにある。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "Even the darkest night will end and the sun will rise.",
+   "ko": "아무리 어두운 밤도 끝나고 해는 떠오른다.",
+   "ja": "どんなに暗い夜も終わり、太陽は昇る。",
+   "author": {
+    "en": "Victor Hugo",
+    "ko": "빅토르 위고",
+    "ja": "ヴィクトル・ユゴー"
+   }
+  },
+  {
+   "en": "Knowledge is the food of the soul.",
+   "ko": "앎은 영혼의 양식이다.",
+   "ja": "知識は魂の糧である。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "As a well-spent day brings happy sleep, so a life well used brings happy death.",
+   "ko": "잘 보낸 하루가 편안한 잠을 주듯 잘 쓴 삶은 편안한 죽음을 준다.",
+   "ja": "よく過ごした一日が安らかな眠りをもたらすように、よく生きた人生は安らかな死をもたらす。",
+   "author": {
+    "en": "Leonardo da Vinci",
+    "ko": "레오나르도 다 빈치",
+    "ja": "レオナルド・ダ・ヴィンチ"
+   }
+  },
+  {
+   "en": "All of humanity's problems stem from an inability to sit quietly in a room alone.",
+   "ko": "인간의 모든 문제는 방에 혼자 조용히 앉아 있지 못하는 데서 나온다.",
+   "ja": "人間の問題はすべて、部屋に一人で静かに座っていられないことから生じる。",
+   "author": {
+    "en": "Blaise Pascal",
+    "ko": "블레즈 파스칼",
+    "ja": "ブレーズ・パスカル"
+   }
+  },
+  {
+   "en": "Youth grows old easily, and learning is hard to achieve.",
+   "ko": "젊은이는 늙기 쉽고 학문은 이루기 어렵다.",
+   "ja": "少年老い易く学成り難し。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Even a dog does not touch a sleeping person at mealtime.",
+   "ko": "먹을 때는 개도 안 건드린다.",
+   "ja": "食事中は犬さえ叩かない。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Better three hours too soon than a minute too late.",
+   "ko": "일 분 늦는 것보다 세 시간 이른 것이 낫다.",
+   "ja": "一分遅れるより、三時間早いほうがよい。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Deal with the difficult while it is still easy.",
+   "ko": "어려운 일은 쉬울 때 해결하라.",
+   "ja": "難きを其の易きに図る。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "An hour of spring evening is worth a thousand gold pieces.",
+   "ko": "봄날 저녁 한때는 천금의 값어치가 있다.",
+   "ja": "春宵一刻直千金。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Failure is the foundation of success.",
+   "ko": "실패는 성공의 바탕이다.",
+   "ja": "失敗は成功のもと。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "See profit and think of righteousness; see danger and offer your life.",
+   "ko": "이익을 보면 의로움을 생각하고 위태로움을 보면 목숨을 바쳐라.",
+   "ja": "利を見ては義を思い、危うきを見ては命を授く。",
+   "author": {
+    "en": "Ahn Jung-geun",
+    "ko": "안중근",
+    "ja": "安重根"
+   }
+  },
+  {
+   "en": "A sparrow cannot pass a mill without stopping.",
+   "ko": "참새가 방앗간을 그냥 지나랴.",
+   "ja": "雀が精米所を素通りするものか。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Fortune helps those who dare.",
+   "ko": "행운은 과감한 사람을 돕는다.",
+   "ja": "運は勇気ある者を助ける。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "He who opens a school door closes a prison.",
+   "ko": "학교 문을 여는 사람은 감옥 문을 닫는다.",
+   "ja": "学校の扉を開く者は、牢獄の扉を閉じる。",
+   "author": {
+    "en": "Victor Hugo",
+    "ko": "빅토르 위고",
+    "ja": "ヴィクトル・ユゴー"
+   }
+  },
+  {
+   "en": "Even a thread of an inch has a soul of five bu.",
+   "ko": "한 치 벌레에게도 다섯 푼의 혼이 있다.",
+   "ja": "一寸の虫にも五分の魂。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Two heads are better than one.",
+   "ko": "두 사람의 머리가 한 사람보다 낫다.",
+   "ja": "二人の知恵は一人に勝る。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Necessity is the mother of invention.",
+   "ko": "필요는 발명의 어머니다.",
+   "ja": "必要は発明の母である。",
+   "author": {
+    "en": "Plato",
+    "ko": "플라톤",
+    "ja": "プラトン"
+   }
+  },
+  {
+   "en": "Beads are treasures only once they are strung.",
+   "ko": "구슬이 서 말이라도 꿰어야 보배다.",
+   "ja": "玉が三斗あっても、糸に通してこそ宝である。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "A stitch in time saves nine.",
+   "ko": "제때의 한 바늘이 아홉 바늘을 아낀다.",
+   "ja": "今日の一針、明日の十針。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Where there is a will, there is a way.",
+   "ko": "뜻이 있는 곳에 길이 있다.",
+   "ja": "意志あるところに道は開ける。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "The more the rice ripens, the lower its head bows.",
+   "ko": "벼는 익을수록 고개를 숙인다.",
+   "ja": "稲は実るほど頭を垂れる。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "A wise man will make more opportunities than he finds.",
+   "ko": "현명한 사람은 발견하는 것보다 더 많은 기회를 만든다.",
+   "ja": "賢者は見つけるより多くの機会を作り出す。",
+   "author": {
+    "en": "Francis Bacon",
+    "ko": "프랜시스 베이컨",
+    "ja": "フランシス・ベーコン"
+   }
+  },
+  {
+   "en": "Do not help the seedlings grow by pulling on them.",
+   "ko": "싹을 뽑아 올려 자라게 하려 하지 마라.",
+   "ja": "苗を助けて長ぜしむること勿れ。",
+   "author": {
+    "en": "Mencius",
+    "ko": "맹자",
+    "ja": "孟子"
+   }
+  },
+  {
+   "en": "Words spoken without feet travel a thousand li.",
+   "ko": "발 없는 말이 천 리 간다.",
+   "ja": "足のない言葉が千里を行く。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "If you do not enter the tiger's cave, you will not catch its cub.",
+   "ko": "호랑이 굴에 들어가지 않으면 호랑이 새끼를 잡지 못한다.",
+   "ja": "虎穴に入らずんば虎子を得ず。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Even if you chase two hares, you will catch neither.",
+   "ko": "두 마리 토끼를 쫓으면 한 마리도 잡지 못한다.",
+   "ja": "二兎を追う者は一兎をも得ず。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "I am a slow walker, but I never walk back.",
+   "ko": "나는 느리게 걷지만 결코 뒤로 걷지 않는다.",
+   "ja": "私は歩みは遅いが、決して後戻りはしない。",
+   "author": {
+    "en": "Abraham Lincoln",
+    "ko": "에이브러햄 링컨",
+    "ja": "エイブラハム・リンカーン"
+   }
+  },
+  {
+   "en": "When three people walk together, one of them can be my teacher.",
+   "ko": "세 사람이 길을 가면 반드시 그중에 나의 스승이 있다.",
+   "ja": "三人行けば必ず我が師あり。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Time is the greatest innovator.",
+   "ko": "시간은 가장 위대한 혁신가다.",
+   "ja": "時は最大の革新者である。",
+   "author": {
+    "en": "Francis Bacon",
+    "ko": "프랜시스 베이컨",
+    "ja": "フランシス・ベーコン"
+   }
+  },
+  {
+   "en": "Walking is man's best medicine.",
+   "ko": "걷기는 사람에게 가장 좋은 약이다.",
+   "ja": "歩くことは人間にとって最良の薬である。",
+   "author": {
+    "en": "Hippocrates",
+    "ko": "히포크라테스",
+    "ja": "ヒポクラテス"
+   }
+  },
+  {
+   "en": "The reward of a thing well done is to have done it.",
+   "ko": "일을 잘 해낸 보상은 그것을 해냈다는 사실이다.",
+   "ja": "よく為したことの報酬は、それを為したことである。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "To be great is to be misunderstood.",
+   "ko": "위대하다는 것은 오해받는 것이다.",
+   "ja": "偉大であることは誤解されることである。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "It is not things that disturb us, but our judgments about things.",
+   "ko": "우리를 괴롭히는 것은 일 자체가 아니라 그 일에 대한 우리의 판단이다.",
+   "ja": "人を悩ませるのは物事そのものではなく、物事についての判断である。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "There is nothing either good or bad, but thinking makes it so.",
+   "ko": "좋고 나쁜 것은 없다. 생각이 그렇게 만들 뿐이다.",
+   "ja": "良いも悪いもない。考え方がそうさせるのだ。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Do good and it returns to you.",
+   "ko": "남에게 베푼 인정은 결국 자신에게 돌아온다.",
+   "ja": "情けは人のためならず。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Those who take long strides do not walk far.",
+   "ko": "성큼성큼 걷는 사람은 멀리 가지 못한다.",
+   "ja": "跨ぐ者は行かず。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  },
+  {
+   "en": "Practice is the best teacher.",
+   "ko": "연습이 가장 좋은 스승이다.",
+   "ja": "実践こそ最良の師である。",
+   "author": {
+    "en": "Cicero",
+    "ko": "키케로",
+    "ja": "キケロ"
+   }
+  },
+  {
+   "en": "Better late than never.",
+   "ko": "늦더라도 안 하는 것보다 낫다.",
+   "ja": "遅くともしないよりはまし。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "A penny saved is a penny earned.",
+   "ko": "아낀 한 푼은 번 한 푼이다.",
+   "ja": "節約した一銭は稼いだ一銭である。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "If you dig one well at a time, you reach water.",
+   "ko": "우물을 파도 한 우물을 파라.",
+   "ja": "井戸を掘るなら一つの井戸を掘れ。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Haste makes you go around; take the long way.",
+   "ko": "급할수록 돌아가라.",
+   "ja": "急がば回れ。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Virtue is never alone; it always has neighbors.",
+   "ko": "덕이 있으면 외롭지 않고 반드시 이웃이 있다.",
+   "ja": "徳は孤ならず、必ず隣あり。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Go confidently in the direction of your dreams.",
+   "ko": "꿈을 향해 자신 있게 나아가라.",
+   "ja": "夢の方向へ自信を持って進め。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "Do not do to others what you do not want done to yourself.",
+   "ko": "자기가 원하지 않는 일을 남에게 하지 마라.",
+   "ja": "己の欲せざる所は人に施すこと勿れ。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "What is hard to bear is sweet to remember.",
+   "ko": "견디기 어려운 일도 돌아보면 달콤하다.",
+   "ja": "耐えがたいことも、思い出せば甘い。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Grind an iron rod and it becomes a needle.",
+   "ko": "쇠막대를 갈면 바늘이 된다.",
+   "ja": "鉄の棒を磨いて針にする。",
+   "author": {
+    "en": "Chinese proverb",
+    "ko": "중국 고사",
+    "ja": "中国の故事"
+   }
+  },
+  {
+   "en": "Without haste, but without rest.",
+   "ko": "서두르지 말되 쉬지도 마라.",
+   "ja": "急がず、休まず。",
+   "author": {
+    "en": "Johann Wolfgang von Goethe",
+    "ko": "요한 볼프강 폰 괴테",
+    "ja": "ヨハン・ヴォルフガング・フォン・ゲーテ"
+   }
+  },
+  {
+   "en": "Trust thyself.",
+   "ko": "너 자신을 믿어라.",
+   "ja": "自分を信じよ。",
+   "author": {
+    "en": "Ralph Waldo Emerson",
+    "ko": "랠프 월도 에머슨",
+    "ja": "ラルフ・ワルド・エマーソン"
+   }
+  },
+  {
+   "en": "A man is rich in proportion to the number of things he can afford to let alone.",
+   "ko": "사람의 부는 없어도 되는 것이 얼마나 많은가에 달렸다.",
+   "ja": "人の豊かさは、手放せるものの数に比例する。",
+   "author": {
+    "en": "Henry David Thoreau",
+    "ko": "헨리 데이비드 소로",
+    "ja": "ヘンリー・デイヴィッド・ソロー"
+   }
+  },
+  {
+   "en": "Man is by nature a social animal.",
+   "ko": "인간은 본래 사회적 동물이다.",
+   "ja": "人間は本来、社会的動物である。",
+   "author": {
+    "en": "Aristotle",
+    "ko": "아리스토텔레스",
+    "ja": "アリストテレス"
+   }
+  },
+  {
+   "en": "Whatever you are, be a good one.",
+   "ko": "무엇이 되든 좋은 사람이 되어라.",
+   "ja": "何者であれ、良き者であれ。",
+   "author": {
+    "en": "Abraham Lincoln",
+    "ko": "에이브러햄 링컨",
+    "ja": "エイブラハム・リンカーン"
+   }
+  },
+  {
+   "en": "When you arise in the morning, think of what a privilege it is to be alive.",
+   "ko": "아침에 일어나면 살아 있다는 것이 얼마나 큰 특권인지 생각하라.",
+   "ja": "朝起きたら、生きていることがどれほどの特権かを思え。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "This above all: to thine own self be true.",
+   "ko": "무엇보다 너 자신에게 진실하라.",
+   "ja": "何よりも、自分自身に誠実であれ。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "You reap what you sow.",
+   "ko": "뿌린 대로 거둔다.",
+   "ja": "蒔いた種は刈らねばならない。",
+   "author": {
+    "en": "English proverb",
+    "ko": "영어 속담",
+    "ja": "英語のことわざ"
+   }
+  },
+  {
+   "en": "Waste no more time arguing what a good man should be. Be one.",
+   "ko": "좋은 사람이 어떠해야 하는지 논하며 더는 시간을 낭비하지 말고, 그런 사람이 되어라.",
+   "ja": "善い人とはどうあるべきかを論じて時間を費やすな。善い人であれ。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Fortune favors the bold.",
+   "ko": "행운은 용감한 사람의 편이다.",
+   "ja": "幸運は勇者に味方する。",
+   "author": {
+    "en": "Virgil",
+    "ko": "베르길리우스",
+    "ja": "ウェルギリウス"
+   }
+  },
+  {
+   "en": "If you have no thought for the distant future, you will have worries close at hand.",
+   "ko": "멀리 내다보는 생각이 없으면 반드시 가까운 근심이 생긴다.",
+   "ja": "人遠き慮りなければ、必ず近き憂いあり。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "Diligence is the mother of good luck.",
+   "ko": "부지런함은 행운의 어머니다.",
+   "ja": "勤勉は幸運の母である。",
+   "author": {
+    "en": "Benjamin Franklin",
+    "ko": "벤저민 프랭클린",
+    "ja": "ベンジャミン・フランクリン"
+   }
+  },
+  {
+   "en": "Heaven's timing is not as good as the advantage of terrain; terrain is not as good as harmony among people.",
+   "ko": "하늘의 때는 땅의 이로움만 못하고, 땅의 이로움은 사람의 화합만 못하다.",
+   "ja": "天の時は地の利に如かず、地の利は人の和に如かず。",
+   "author": {
+    "en": "Mencius",
+    "ko": "맹자",
+    "ja": "孟子"
+   }
+  },
+  {
+   "en": "To go too far is as bad as to fall short.",
+   "ko": "지나침은 모자람과 같다.",
+   "ja": "過ぎたるは猶お及ばざるが如し。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "If you do it, it can be done; if you do not, nothing will be done.",
+   "ko": "하면 된다. 하지 않으면 아무것도 되지 않는다.",
+   "ja": "為せば成る、為さねば成らぬ何事も。",
+   "author": {
+    "en": "Uesugi Yozan",
+    "ko": "우에스기 요잔",
+    "ja": "上杉鷹山"
+   }
+  },
+  {
+   "en": "While we are postponing, life speeds by.",
+   "ko": "우리가 미루는 사이에 삶은 빠르게 지나간다.",
+   "ja": "先延ばしにしている間に、人生は駆け足で過ぎていく。",
+   "author": {
+    "en": "Seneca",
+    "ko": "세네카",
+    "ja": "セネカ"
+   }
+  },
+  {
+   "en": "He is a wise man who does not grieve for the things he has not, but rejoices for those he has.",
+   "ko": "없는 것을 슬퍼하지 않고 있는 것을 기뻐하는 사람이 현명하다.",
+   "ja": "持たぬものを嘆かず、持つものを喜ぶ人こそ賢い。",
+   "author": {
+    "en": "Epictetus",
+    "ko": "에픽테토스",
+    "ja": "エピクテトス"
+   }
+  },
+  {
+   "en": "He who has begun has half done. Dare to be wise.",
+   "ko": "시작한 사람은 절반을 이룬 것이다. 용기 내어 지혜로워져라.",
+   "ja": "始めた者は半ばを成した。賢くあることを恐れるな。",
+   "author": {
+    "en": "Horace",
+    "ko": "호라티우스",
+    "ja": "ホラティウス"
+   }
+  },
+  {
+   "en": "Even a dog that walks will run into a stick.",
+   "ko": "개도 걸으면 몽둥이에 부딪힌다.",
+   "ja": "犬も歩けば棒に当たる。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "To begin is already half the work.",
+   "ko": "시작이 반이다.",
+   "ja": "始めれば半分は終わったも同然である。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Do not look up at a tree you cannot climb.",
+   "ko": "오르지 못할 나무는 쳐다보지도 마라.",
+   "ja": "登れない木は見上げるな。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "To ask is a moment's shame; not to ask is a lifetime's shame.",
+   "ko": "묻는 것은 한때의 수치, 묻지 않는 것은 평생의 수치다.",
+   "ja": "聞くは一時の恥、聞かぬは一生の恥。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "Reading makes a full man.",
+   "ko": "독서는 사람을 충실하게 만든다.",
+   "ja": "読書は人を豊かにする。",
+   "author": {
+    "en": "Francis Bacon",
+    "ko": "프랜시스 베이컨",
+    "ja": "フランシス・ベーコン"
+   }
+  },
+  {
+   "en": "The morning hour has gold in its mouth; early rising brings three benefits.",
+   "ko": "일찍 일어나면 세 푼의 이득이 있다.",
+   "ja": "早起きは三文の徳。",
+   "author": {
+    "en": "Japanese proverb",
+    "ko": "일본 속담",
+    "ja": "日本のことわざ"
+   }
+  },
+  {
+   "en": "First set your purpose; without purpose nothing is accomplished.",
+   "ko": "먼저 뜻을 세워라. 뜻이 서지 않으면 이루어지는 일이 없다.",
+   "ja": "まず志を立てよ。志が立たなければ何事も成らない。",
+   "author": {
+    "en": "Yi Yulgok",
+    "ko": "율곡 이이",
+    "ja": "栗谷 李珥"
+   }
+  },
+  {
+   "en": "Do not regret what you have done.",
+   "ko": "한 일을 후회하지 마라.",
+   "ja": "我事において後悔をせず。",
+   "author": {
+    "en": "Miyamoto Musashi",
+    "ko": "미야모토 무사시",
+    "ja": "宮本武蔵"
+   }
+  },
+  {
+   "en": "Time is a river of passing events, and its current is strong.",
+   "ko": "시간은 지나가는 일들의 강이며 그 물살은 거세다.",
+   "ja": "時とは過ぎゆく出来事の川であり、その流れは激しい。",
+   "author": {
+    "en": "Marcus Aurelius",
+    "ko": "마르쿠스 아우렐리우스",
+    "ja": "マルクス・アウレリウス"
+   }
+  },
+  {
+   "en": "Let the one who knows it be surpassed by the one who loves it, and that one by the one who delights in it.",
+   "ko": "아는 사람은 좋아하는 사람만 못하고, 좋아하는 사람은 즐기는 사람만 못하다.",
+   "ja": "之を知る者は之を好む者に如かず、之を好む者は之を楽しむ者に如かず。",
+   "author": {
+    "en": "Confucius",
+    "ko": "공자",
+    "ja": "孔子"
+   }
+  },
+  {
+   "en": "A sound mind in a sound body.",
+   "ko": "건강한 몸에 건강한 정신이 깃든다.",
+   "ja": "健全な身体に健全な精神が宿る。",
+   "author": {
+    "en": "Latin proverb",
+    "ko": "라틴 격언",
+    "ja": "ラテン語の格言"
+   }
+  },
+  {
+   "en": "Even a sheet of paper is lighter when two people lift it.",
+   "ko": "백지장도 맞들면 낫다.",
+   "ja": "紙一枚でも二人で持てば軽い。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "Even a stone bridge should be tapped before crossing.",
+   "ko": "돌다리도 두들겨 보고 건너라.",
+   "ja": "石橋も叩いて渡れ。",
+   "author": {
+    "en": "Korean proverb",
+    "ko": "한국 속담",
+    "ja": "韓国のことわざ"
+   }
+  },
+  {
+   "en": "The fault is not in our stars, but in ourselves.",
+   "ko": "잘못은 우리의 별에 있지 않고 우리 자신에게 있다.",
+   "ja": "過ちは星にではなく、私たち自身にある。",
+   "author": {
+    "en": "William Shakespeare",
+    "ko": "윌리엄 셰익스피어",
+    "ja": "ウィリアム・シェイクスピア"
+   }
+  },
+  {
+   "en": "Great vessels take the longest to complete.",
+   "ko": "큰 그릇은 늦게 이루어진다.",
+   "ja": "大器は晩成す。",
+   "author": {
+    "en": "Laozi",
+    "ko": "노자",
+    "ja": "老子"
+   }
+  }
+ ]
+}
